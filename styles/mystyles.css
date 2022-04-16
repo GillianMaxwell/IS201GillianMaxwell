@@ -11,3 +11,21 @@ h1{
 p{
     color: rgb(104, 100, 100)
 }
+
+div.post-preview>a:visited,
+div.post-preview>a:link,
+div.post-preview>a:active,
+div.post-preview>a:hover{
+    color: black;
+}
+
+a#Instagram:link,
+a#Instagram:visited {
+    color:rgb(27, 24, 190)
+}
+
+a#Instagram:hover, 
+a#Instagram:active {
+    color:rgb(166, 166, 255)
+}
+
