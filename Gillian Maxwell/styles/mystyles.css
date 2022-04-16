@@ -1,0 +1,40 @@
+/*Gillian Maxwell 4/15/2022 6:50 P.M.*/
+
+body { 
+    background-color: rgb(228, 225, 225); 
+}
+
+h1{
+    color: black
+}
+
+p{
+    color: rgb(104, 100, 100)
+}
+
+/**try this for working on my style sheet**/
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
