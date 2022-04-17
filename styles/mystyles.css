@@ -1,4 +1,4 @@
-/*Gillian Maxwell 4/16/2022 8:34 P.M.*/
+/*Gillian Maxwell 4/16/2022 8:50 P.M.*/
 
 body { 
     background-color: rgb(236, 238, 221); 
@@ -41,5 +41,13 @@ a#Blue:active {
 
 #captionbox{
     flex: 50% ;
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(236, 165, 177);
+    color: black;
+    font-family:'Times New Roman', Times, serif;
 }
 
