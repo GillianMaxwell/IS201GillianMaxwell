@@ -1,11 +1,11 @@
-/*Gillian Maxwell 4/16/2022 2:30 P.M.*/
+/*Gillian Maxwell 4/16/2022 8:34 P.M.*/
 
 body { 
     background-color: rgb(236, 238, 221); 
 }
 
 h1{
-    color: black
+    color: black;
 }
 
 p{
@@ -27,5 +27,19 @@ a#Instagram:visited {
 a#Instagram:hover, 
 a#Instagram:active {
     color:rgb(166, 166, 255)
+}
+
+a#Blue:link,
+a#Blue:visited {
+    color:rgb(27, 24, 190)
+}
+
+a#Blue:hover,
+a#Blue:active {
+    color:rgb(166, 166, 255)
+}
+
+#captionbox{
+    flex: 50% ;
 }
 
